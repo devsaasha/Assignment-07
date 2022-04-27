@@ -78,5 +78,5 @@ studentObjectData.sort().map((data, i) =>{
       
 });
 console.log(`
-<-----------Total------------------ : ${totals}.
+<-----------Total------------------ : ${totals-sg}.
 `);
